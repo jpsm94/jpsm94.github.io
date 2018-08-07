@@ -3,9 +3,7 @@
 Hi there! Here are some personal projects and I have worked on:
 
 ## Data Exploration and Visualisation project
-[Commonwealth Games Visualisation](https://jpsm94.shinyapps.io/commonwealth_games_data_visualisation_-_fit5147_project/)
-
-[repository](https://github.com/jpsm94/FIT5147-Commonwealth-Games-Shiny-App)
+[Commonwealth Games Visualisation](https://jpsm94.shinyapps.io/commonwealth_games_data_visualisation_-_fit5147_project/) ([repository](https://github.com/jpsm94/FIT5147-Commonwealth-Games-Shiny-App))
 
 ## R Shiny exercise
 [Australia Population Growth](https://jpsm94.shinyapps.io/australia_population_stats_fit5147_r_shiny_exercise/)

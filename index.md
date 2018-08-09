@@ -9,5 +9,5 @@ Hi there! Here are some self-learning and personal projects I have worked on:
 #### R Shiny
 [Australia Population Growth](https://jpsm94.shinyapps.io/australia_population_stats_fit5147_r_shiny_exercise/)  ([github repo](https://github.com/jpsm94/FIT5147-R-Shiny-Exercise))
 
-##### D3.js exercise
+#### D3.js exercise
 [Monthly Rainfall in Selected Capital Cities](http://htmlpreview.github.io/?https://github.com/jpsm94/FIT5147-D3-Exercise/blob/master/index.html)  ([github repo](https://github.com/jpsm94/FIT5147-D3-Exercise))

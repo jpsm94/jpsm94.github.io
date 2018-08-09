@@ -1,4 +1,4 @@
-Hi there! Here are some self-learning and personal projects I have worked on:
+Hi there! Here are some personal projects I have worked on:
 
 ## Data Exploration and Visualisation Unit ([FIT5147](http://www.monash.edu/pubs/2018handbooks/units/FIT5147.html))
 

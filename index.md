@@ -9,6 +9,7 @@ Hi there! Here are some personal projects I have worked on:
 [Resources and Programming Exercises](https://github.com/jpsm94/Deep-Learning-with-PyTorch)
 
 ## Data Exploration and Visualisation Unit ([FIT5147](http://www.monash.edu/pubs/2018handbooks/units/FIT5147.html))
+Part of Graduate Diploma of Data Science Studies at Monash University
 
 ### Data Visualisation project
 [Commonwealth Games Visualisation](https://jpsm94.shinyapps.io/commonwealth_games_data_visualisation_-_fit5147_project/)  ([github repo](https://github.com/jpsm94/FIT5147-Commonwealth-Games-Shiny-App))

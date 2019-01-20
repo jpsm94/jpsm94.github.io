@@ -1,5 +1,13 @@
 Hi there! Here are some personal projects I have worked on:
 
+## Data Science and Machine Learning MOOCs
+
+### Coursera Stanford Machine Learning
+[Resources and Programming Exercises](https://github.com/jpsm94/Coursera-Stanford-Machine-Learning)
+
+### Udacity PyTorch Scholarship
+[Resources and Programming Exercises](https://github.com/jpsm94/Deep-Learning-with-PyTorch)
+
 ## Data Exploration and Visualisation Unit ([FIT5147](http://www.monash.edu/pubs/2018handbooks/units/FIT5147.html))
 
 ### Data Visualisation project

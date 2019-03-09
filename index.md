@@ -9,7 +9,7 @@ Hi there! Here are some personal projects I have worked on:
 [Resources and Exercises (GitHub repo)](https://github.com/jpsm94/Deep-Learning-with-PyTorch)
 
 ## Data Exploration and Visualisation Unit ([FIT5147](http://www.monash.edu/pubs/2018handbooks/units/FIT5147.html))
-One of the units for the Graduate Diploma of Data Science studies at Monash University
+One of the units for the [Graduate Diploma of Data Science](https://online.monash.edu/course/graduate-diploma-data-science) studies at Monash University
 
 ### Data Visualisation project
 Visualisation on the Commonwealth Games using R Shiny

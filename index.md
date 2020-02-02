@@ -1,7 +1,7 @@
 Hi there! Here are some personal projects I have worked on:
 
 ## Code.Sydney Contributions
-[NSW Hospitals REST API|https://github.com/jpsm94/nswhospitals_restapi]
+[NSW Hospitals REST API (GitHub repo)](https://github.com/jpsm94/nswhospitals_restapi)
 
 ## Data Science and Machine Learning MOOCs
 
